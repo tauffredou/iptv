@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="C8.fr",C8
-https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/C8.m3u8
+#EXTINF:-1 tvg-id="TF1.fr",TF1 (1080p)
+http://livetv.ktv.zone/3/play.m3u8
 #EXTINF:-1 tvg-id="France2.fr",France 2
 http://livetv.ktv.zone/104/play.m3u8
 #EXTINF:-1 tvg-id="France3.fr",France 3
@@ -11,9 +11,7 @@ http://livetv.ktv.zone/116/play.m3u8
 http://livetv.ktv.zone/107/play.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr",Gulli (720p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/gullihdapr23.m3u8
-#EXTINF:-1 tvg-id="TF1.fr",TF1 (1080p)
-http://livetv.ktv.zone/3/play.m3u8
 #EXTINF:-1 tvg-id="TMC.fr",TMC
 http://livetv.ktv.zone/12/play.m3u8
-#EXTINF:-1 tvg-id="Weo.fr",Wéo (Picardie) (480p) [Not 24/7]
-https://live.digiteka.com/1/Zks2L0VsM2V0T242/QTBqcFly/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="C8.fr",C8
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/C8.m3u8
